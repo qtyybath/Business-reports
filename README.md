@@ -1,2 +1,2 @@
-Приклади SQL запитів, 
-Репорт в POWER BI  
+Examples of SQL queries,
+Report in POWER BI
